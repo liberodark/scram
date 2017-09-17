@@ -1,2 +1,2 @@
 # scram
-Scram for Manjaro : Arch Linux
+Scram for Manjaro / Arch Linux
