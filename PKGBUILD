@@ -1,3 +1,5 @@
+# Maintainer: liberodark
+
 pkgname=scram
 pkgver=0.15.0
 pkgrel=1
